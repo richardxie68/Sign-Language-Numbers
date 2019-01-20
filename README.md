@@ -18,7 +18,9 @@ Numpy and Panda toolkits for data processing
 
 ## This project contains two files:
 NumPredict.ipynb: This is the main file where you will be performing your work on the project.
+
 x.npy: The project dataset. Unfortunately, this dataset is too big and can't be uploaded onto Git
+
 y.npy: The project dataset part two.
 
 ## Install
